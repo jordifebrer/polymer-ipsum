@@ -1,0 +1,19 @@
+{
+    "name": "polymer-ipsum",
+    "version": "0.0.1",
+    "description": "Web Component Lorem ipsum using Polymer",
+    "license": "MIT",
+    "main": "dist/polymer-ipsum.html",
+    "keywords": [
+        "polymer",
+        "web-components"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#~0.3.3"
+    }
+}
