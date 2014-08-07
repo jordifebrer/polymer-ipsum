@@ -1,6 +1,6 @@
 {
     "name": "polymer-ipsum",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Web Component Lorem ipsum using Polymer",
     "license": "MIT",
     "main": "dist/polymer-ipsum.html",

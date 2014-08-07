@@ -41,6 +41,7 @@ Or [download as ZIP](https://github.com/jordifebrer/polymer-ipsum/archive/master
 Attribute     | Options     | Default      | Description
 ---           | ---         | ---          | ---
 `paragraphs`  | *int*       | null         | Number of paragraphs to display
+`chars`       | *int*       | null         | Number of characters to display
 
 ## Development
 
