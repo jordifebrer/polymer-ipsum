@@ -42,6 +42,7 @@ Attribute     | Options     | Default      | Description
 ---           | ---         | ---          | ---
 `paragraphs`  | *int*       | null         | Number of paragraphs to display
 `chars`       | *int*       | null         | Number of characters to display
+`reverse`     | *boolean*   | false        | Reverse characters
 
 ## Development
 
